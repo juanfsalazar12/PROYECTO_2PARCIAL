@@ -29,7 +29,8 @@ Materiales del proyecto: "Circuito de 3 vias o conmutador"
 
 Circuito conmutador 
 
-![image](https://user-images.githubusercontent.com/116821649/211702148-b434bb15-74ba-4599-931c-edb6817efb29.png)
+![image](https://user-images.githubusercontent.com/116821649/211702284-95e71993-e516-4c21-b35c-e6bae5911743.png)
+
 
 
 
