@@ -37,7 +37,7 @@ Materiales
 
 ![image](https://user-images.githubusercontent.com/116821649/211952451-9ea5ded4-f4cb-4bbe-b400-b46bcb8cabe7.png)
 
-Circuito conmutador 
+Circuito conmutador o 3 vias.
 
 ![image](https://user-images.githubusercontent.com/116821649/211702284-95e71993-e516-4c21-b35c-e6bae5911743.png)
 
@@ -77,7 +77,7 @@ Procedimiento
 
 ![image](https://user-images.githubusercontent.com/116821649/211956980-1086fad0-0878-40c0-8376-78c9b821de28.png)
 
-
+* Circuito Físico del circuito de 3 vias o conmutación.
 
 
 
