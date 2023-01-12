@@ -17,19 +17,52 @@ Docente : Ing. Darwin Alulema
 
 Objetivo General
 
-
+Analizar y aplicar los conocimientos vistos en clase mediante un proyecto el armado de un circuito conmutador, donde se refleje el analisis del funcionamineto del circuito.
 
 Objetivos Especificos
+
+1. Plantear el diagrama del circuito de 3 vias y analizar la estructura del mismo.
+
+2. Armar el circuito conmutador y analizar el comportamiento del mismo.
+
+3. Diferenciar que tipo de circuito es el que se obtiene al armar el circuito de 3 vias.
 
 * Marco Teoríco del proyecto 
 
 Materiales del proyecto: "Circuito de 3 vias o conmutador" 
 
+![MATERIALES](https://user-images.githubusercontent.com/116821649/211951887-54e70fa9-1376-417c-8bf3-51367f159ac8.png)
 
+Materiales 
+
+![image](https://user-images.githubusercontent.com/116821649/211952451-9ea5ded4-f4cb-4bbe-b400-b46bcb8cabe7.png)
 
 Circuito conmutador 
 
 ![image](https://user-images.githubusercontent.com/116821649/211702284-95e71993-e516-4c21-b35c-e6bae5911743.png)
+
+Procedimiento 
+
+1. 
+
+
+
+
+
+
+
+
+
+
+
+Bibliografia 
+
+Portalámparas, qué son y cómo funcionan. (2013, June 17). Hogarmania. https://www.hogarmania.com/bricolaje/taller/materiales/portalamparas-como-funcionan-20549.html
+
+(N.d.). Udoe.Es. Retrieved January 12, 2023, from https://udoe.es/funcion-del-foco/
+
+Casa, E. en [@ElectricistaenCasa]. (2020, August 28). Circuito Escalera, 924, Vaiven, 3 Vias, pasó a paso. Youtube. https://www.youtube.com/watch?v=q3oUc9_qnyc
+
 
 
 
