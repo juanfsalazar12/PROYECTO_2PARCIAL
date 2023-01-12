@@ -29,19 +29,19 @@ Objetivos Especificos
 
 * Marco Teoríco del proyecto 
 
-Materiales del proyecto: "Circuito de 3 vias o conmutador" 
+1. Materiales del proyecto: "Circuito de 3 vias o conmutador" 
 
 ![MATERIALES](https://user-images.githubusercontent.com/116821649/211951887-54e70fa9-1376-417c-8bf3-51367f159ac8.png)
 
-Materiales 
+1.1. Materiales 
 
 ![image](https://user-images.githubusercontent.com/116821649/211952451-9ea5ded4-f4cb-4bbe-b400-b46bcb8cabe7.png)
 
-Circuito conmutador o 3 vias.
+2. Esquema esqueletico del circuito conmutador o 3 vias.
 
 ![image](https://user-images.githubusercontent.com/116821649/211702284-95e71993-e516-4c21-b35c-e6bae5911743.png)
 
-Procedimiento 
+3. Procedimiento 
 
 1. Colocar los cajetines en parelelo y la boquilla del foco al medio de estos dos cajetines.
 
@@ -77,7 +77,7 @@ Procedimiento
 
 ![image](https://user-images.githubusercontent.com/116821649/211956980-1086fad0-0878-40c0-8376-78c9b821de28.png)
 
-* Circuito Físico del circuito de 3 vias o conmutación.
+4. Circuito Físico del circuito de 3 vias o conmutación.
 
 
 
@@ -86,7 +86,7 @@ Procedimiento
 
 
 
-Bibliografia 
+* Bibliografia 
 
 Portalámparas, qué son y cómo funcionan. (2013, June 17). Hogarmania. https://www.hogarmania.com/bricolaje/taller/materiales/portalamparas-como-funcionan-20549.html
 
