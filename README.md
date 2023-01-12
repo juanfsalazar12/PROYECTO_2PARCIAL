@@ -43,8 +43,39 @@ Circuito conmutador
 
 Procedimiento 
 
-1. 
+1. Colocar los cajetines en parelelo y la boquilla del foco al medio de estos dos cajetines.
 
+![image](https://user-images.githubusercontent.com/116821649/211955293-5b0511af-127e-4555-a5fa-3814457542a1.png)
+
+2. Pasar el cable gemelo de cajetin a cajetin y conectar en los extremos del interrumpor ya que eston seran los viajeros.
+
+![image](https://user-images.githubusercontent.com/116821649/211955564-389b3c2b-bb16-4934-b8f4-b9b1020028a1.png)
+
+3. Ahora procedemo a sacar un cable de la fase de cada un de los interruptores, la fase del interrumpor es el terminal del medio.
+
+![image](https://user-images.githubusercontent.com/116821649/211955890-e9456532-c5da-4f32-9c25-95b80a6a8d8c.png)
+
+4. Por consiguiente, conectamos la fase del lado derecho al terminal de la bombilla del foco.
+
+![image](https://user-images.githubusercontent.com/116821649/211956100-c43d0ddc-e202-426e-b309-87929a2125f6.png)
+
+5. Ahora conectamos el enchufe Tipo A al cable gemelo, y conectamos uno cable del enchufe al terminal sobrante del foco 
+
+![image](https://user-images.githubusercontent.com/116821649/211956502-4e6f372e-fb58-477f-a2cf-21685c9fcda1.png)
+
+6. Por ultimo, conectamos la fase del lado izquierdo con el cable sobrante del enchufe. 
+
+![image](https://user-images.githubusercontent.com/116821649/211956666-9520c139-d9b6-45cf-9b13-4700e01a6484.png)
+
+7. Ahora bien una vez realizado todo este proceso, procedemos a conectar el enchufe y verificamos si funciona el circuito.
+
+7.1 Prendemos con el interruptor de lado izquierdo.
+
+![image](https://user-images.githubusercontent.com/116821649/211956805-67322584-56f3-49eb-8315-eaaecb551aa9.png)
+
+7.2 Apagamos con el interrumpor del lado derecho.
+
+![image](https://user-images.githubusercontent.com/116821649/211956980-1086fad0-0878-40c0-8376-78c9b821de28.png)
 
 
 
