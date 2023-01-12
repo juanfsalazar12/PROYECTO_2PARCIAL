@@ -79,6 +79,10 @@ Objetivos Especificos
 
 4) Circuito Físico del circuito de 3 vias o conmutación.
 
+![Imagen de WhatsApp 2023-01-11 a las 22 18 46](https://user-images.githubusercontent.com/116821649/211969124-ffc57c78-a2ac-4c0c-867c-e7377bb4d7d0.jpg)
+
+![Imagen de WhatsApp 2023-01-11 a las 22 18 46](https://user-images.githubusercontent.com/116821649/211969135-0d8c7178-36fc-4a1a-95a5-ab8f96f96e7c.jpg)
+
 
 
 
