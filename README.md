@@ -87,7 +87,7 @@ Objetivos Especificos
 
 * Video del Circuito Conmutador o 3 vias.
 
-
+https://uespe-my.sharepoint.com/:v:/g/personal/jfsalazar12_espe_edu_ec/ETFJ4TVcp5xAnm19JJO4miIB0UlY1drqGXeH0Fpd1xFYoQ?e=gWNbvV
 
 * Conclusiones 
 
