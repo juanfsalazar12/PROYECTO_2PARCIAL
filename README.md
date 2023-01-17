@@ -17,15 +17,17 @@ Docente : Ing. Darwin Alulema
 
 Objetivo General
 
-Analizar y aplicar los conocimientos vistos en clase mediante un proyecto el armado de un circuito conmutador, donde se refleje el analisis del funcionamineto del circuito.
+1. De forma experimental, conocer e implementar el funcionamiento de un circuito conmutador triple vía.
 
 Objetivos Especificos
 
-1. Plantear el diagrama del circuito de 3 vias y analizar la estructura del mismo.
+1. Identificar cada componente del circuito y determinar su funcionamiento, composición interna y correcta forma de conexión.
 
-2. Armar el circuito conmutador y analizar el comportamiento del mismo.
+2. Conocer la simbología de los nuevos componentes, y de tal manera, determinar cómo se establecen los diagramas para este tipo de circuitos.
 
-3. Diferenciar que tipo de circuito es el que se obtiene al armar el circuito de 3 vias.
+3. Analizar desde los aspectos superficiales, conexiones, alimentación y componentes, el funcionamiento del circuito; y así también, el funcionamiento interno, detallado, del mismo.
+
+4. Identificar la aplicación de este tipo de circuitos.
 
 * Marco Teoríco del proyecto 
 
@@ -83,12 +85,19 @@ Objetivos Especificos
 
 ![Imagen de WhatsApp 2023-01-11 a las 22 18 46](https://user-images.githubusercontent.com/116821649/211969135-0d8c7178-36fc-4a1a-95a5-ab8f96f96e7c.jpg)
 
+* Video del Circuito Conmutador o 3 vias.
 
 
 
+* Conclusiones 
 
+1. En la práctica, se ha construido un circuito conmutador, de escalera o doble vía, empleando nuevos componentes.
 
+2. Se ha conocido más a profundidad el funcionamiento del foco, la boquilla de foco o roseta, el interruptor de 3 vías y el cable tamaño 14.
 
+3. Se ha determinado cuál es la simbología para cada uno de los componentes del circuito escalera, y así también su correspondiente diagrama esquemático.
+
+4. En conclusión este circuito de utiliza principalmente en domicilios, en la parte de escalera para poder prender o apagar el/los focos desde puntos distantes (planta alta, baja), sin embargo poco están quedando obsoletos debido a las nuevas tecnologías de domótica que cada vez toman más lugar.
 
 * Bibliografia 
 
