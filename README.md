@@ -1,5 +1,5 @@
 # PROYECTO_2PARCIAL
-                                              UNIVERSIDAD DE LAS FUERZAS ARMADAS - ESPE
+                                  UNIVERSIDAD DE LAS FUERZAS ARMADAS - ESPE
 
 INTEGRANTES:
 
