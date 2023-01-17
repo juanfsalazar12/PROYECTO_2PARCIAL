@@ -41,7 +41,7 @@ Objetivos Especificos
 
 2) Esquema esqueletico del circuito conmutador o 3 vias.
 
-![image](https://user-images.githubusercontent.com/116821649/211702284-95e71993-e516-4c21-b35c-e6bae5911743.png)
+![image](https://user-images.githubusercontent.com/116821649/212945100-2e283e88-473d-4db9-9a17-6528ba14c262.png)
 
 3) Procedimiento 
 
